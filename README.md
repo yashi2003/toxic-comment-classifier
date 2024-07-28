@@ -1,9 +1,8 @@
 # Toxic-comment-classifier
 ## NLP multi-label classification using Tensorflow
 
-<div align="center">
-  <img src="https://github.com/AlaGrine/Toxic-Comment-Classification-with-Tensorflow/blob/main/stats/toxic_comments_freepik.jpg" >
-</div>
+
+![image](https://github.com/user-attachments/assets/b22badc5-8d88-4fde-85f4-95fa765f4245)
 
 ## Project Overview <a name="overview"></a>
 
